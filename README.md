@@ -1,5 +1,5 @@
 # Garbage-Classification-with-ANN-Model-Project
-
+Data set link: https://www.kaggle.com/asdasdasasdas/garbage-classification
 As seen in the image, it contains 6 different waste groups (cardboard, glass, metal, paper, plastic and garbage).
 A dataset has been created for you. This data set is divided into train and test. From you
 You are expected to do the following:
